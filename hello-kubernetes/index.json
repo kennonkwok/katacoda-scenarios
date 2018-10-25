@@ -15,7 +15,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal",
+    "uilayout": "terminal-terminal",
     "showdashboard": true
   },
   "backend": {
