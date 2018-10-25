@@ -16,7 +16,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "showdashboard": true,
+    "showdashboard": true
   },
   "backend": {
     "imageid": "kubernetes"
