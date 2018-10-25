@@ -19,6 +19,6 @@
     "showdashboard": true
   },
   "backend": {
-    "imageid": "kubernetes"
+    "imageid": "kubernetes-cluster"
   }
 }
