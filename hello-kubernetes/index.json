@@ -1,0 +1,24 @@
+{
+  "title": "Hello Kubernetes",
+  "description": "Kennon's Kubernetes playground",
+  "details": {
+    "steps": [
+      {
+        "title": "Hello Kubernetes"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "showdashboard": true,
+  },
+  "backend": {
+    "imageid": "kubernetes"
+  }
+}
